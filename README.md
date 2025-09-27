@@ -7,6 +7,6 @@
  • __Scalable Backend__: Utilized Firebase SDK for real-time data syncing and offline persistence, ensuring smooth
  functionality even in low-connectivity environments.  
  • __Responsive Design__: Delivered a user-friendly interface optimized for both Android and iOS platforms.
-
-<img src="https://github.com/user-attachments/assets/b8e2379a-a5ba-4abb-87f3-bae3a51fc5e2" width="400" height="300">
+ 
+<img src="https://github.com/user-attachments/assets/9a2dbc6e-a138-4a65-92d0-0fc3f824d4bb" width="200" height="370">
 
